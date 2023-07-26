@@ -28,7 +28,6 @@ The program uses the following data structures and functions:
 
 ## Project Notes
 
-- The implementation follows the CS50x problem set requirements and adheres to the specified function prototypes.
 - The program correctly records voter preferences, creates pairs based on preferences, and sorts them in order of strength of victory.
 - It then locks pairs into the graph without creating cycles and identifies the winner as the source of the graph.
 
